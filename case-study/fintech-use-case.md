@@ -13,6 +13,7 @@ The framework integrates:
 Governance standardization
 Reliability engineering (SRE principles)
 Cross-cloud observability
+
 🚧 Problem Addressed
 
 Organizations operating across AWS, Azure, and GCP face:
@@ -21,6 +22,7 @@ Fragmented governance
 Lack of unified observability
 Inefficient incident response
 Inconsistent reliability metrics
+
 💡 Proposed Solution
 
 A unified framework consisting of:
@@ -28,6 +30,7 @@ A unified framework consisting of:
 Governance Layer → Policy enforcement, compliance, cost control
 SRE Layer → SLOs, SLIs, error budgets, incident response
 Observability Layer → Logging, tracing, metrics
+
 🏗️ Architecture
 
 See: /architecture/architecture.png
@@ -46,6 +49,7 @@ A FinTech implementation demonstrating:
 📄 Research Work
 SSRN: (Link will be updated soon)
 Conference Submission: FiCloud 2026
+
 🌐 Impact
 
 This framework provides a reusable model for multi-cloud systems, improving reliability, compliance, and operational efficiency.
