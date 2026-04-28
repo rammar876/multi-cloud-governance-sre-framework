@@ -1,6 +1,6 @@
 # multi-cloud-governance-sre-framework
 ## 📄 Research Paper
-- SSRN: [your link]
+- SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663578
 - Conference Submission: FiCloud 2026
 
 ## 📊 Case Study
